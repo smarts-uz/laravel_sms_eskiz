@@ -1,4 +1,5 @@
-# eskiz-sms-client
+# laravel-sms-eskiz
+
 
 ## Installing
 
